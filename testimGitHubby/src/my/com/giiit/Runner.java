@@ -8,7 +8,9 @@ public class Runner {
 			System.out.print("Number >>" + i + "<<" + "---DDDDDD---");
 			System.out.println("ssssssssasfsss");
 		}
-		System.out.println("--------FINISH111-------");
+
+		System.out.println("--------csose11-------");
+
 		
 	}
 
