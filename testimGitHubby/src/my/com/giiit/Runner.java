@@ -11,8 +11,7 @@ public class Runner {
 
 		System.out.println("--------csose12-------");
 		Printer.printAAA();
-		
-		
+		Printer printer = new Printer();
+		System.out.println(printer.getBB());
 	}
-
 }
