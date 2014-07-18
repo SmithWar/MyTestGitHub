@@ -6,7 +6,7 @@ public class Runner {
 		System.out.println("--------START-------");
 		for (int i=0; i<10; i++) {
 			System.out.print("Number >>" + i + "<<" + "---DDDDDD---");
-			System.out.println("eeeeeeeeeeeeee");
+//			System.out.println("ssssssssasfsss");
 		}
 		System.out.println("--------FINISH-------");
 		
