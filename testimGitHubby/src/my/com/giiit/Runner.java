@@ -10,7 +10,8 @@ public class Runner {
 		}
 
 		System.out.println("--------csose12-------");
-
+		Printer.printAAA();
+		
 		
 	}
 
